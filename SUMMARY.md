@@ -1,5 +1,5 @@
 # Table of contents
 
-* [DHCP](README.md)
-* [DNS](dns.md)
+* [DNS](README.md)
 * [SSH](ssh.md)
+* [DHCP](dhcp.md)

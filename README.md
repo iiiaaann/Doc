@@ -2,5 +2,5 @@
 description: test2
 ---
 
-# DHCP
+# DNS
 
