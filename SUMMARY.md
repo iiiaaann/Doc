@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [DHCP](README.md)
+* [DNS](dns.md)
